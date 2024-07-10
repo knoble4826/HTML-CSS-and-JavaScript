@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+ <title> MY AWESOME WEBSITE </title>
+  <body>
+<h1> MY SUPER AMAZINGLY AWESOME WEBSITE!</h1>
+<p> MY AWESOME WEBSITE </p>
+<h3> Header 3 </h3>
+<p> Paragragh 2 </p>
+<a href ="http://www.google.com"> Google.com <a>
