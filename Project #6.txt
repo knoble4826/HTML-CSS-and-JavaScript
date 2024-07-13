@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+ <html>
+  <title> My Awesome Website</title>
+<h1> Header 1 </h1>
+<p> Paragragh </p>
+<table border= 10>
+<tr>
+<td> Data </td>
+</tr>
+</table>
