@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+ <html>
+  <title> My Awesome Website</title>
+   <body>
+<h2> Header</h2>
+<table border = 5>
+<tr>
+<td> Data</td>
+<td> Data</td>
+<td> Data</td>
+</tr>
+<table border = 5>
+<tr>
+<td> Data</td>
+<td> Data</td>
+<td> Data</td>
+</tr>
