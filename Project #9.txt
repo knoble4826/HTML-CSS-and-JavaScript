@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+ <html>
+  <title> My Website</title>
+   <body>
+<h1> Header 1</h1>
+<table border = 3 
+<tr>
+<td>
+<img src ="http://goodlogo.com/images/logos/google_chrome_logo_3024.jpg">
+</td>
+<td>
+<img src ="http://goodlogo.com/images/logos/google_chrome_logo_3024.jpg">
+</td>
+<td>
+<img src ="http://goodlogo.com/images/logos/google_chrome_logo_3024.jpg">
+</td>
+</tr>
+</table>
