@@ -1,0 +1,14 @@
+body
+{
+  background-color: gray
+}
+h1
+{
+  color: Pink;
+  background-color: black
+}
+
+p
+{
+ color: orange 
+}
