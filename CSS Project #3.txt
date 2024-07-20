@@ -1,0 +1,19 @@
+body
+{
+
+}
+h1
+{
+  color: Pink;
+  background-color: black;
+  
+}
+
+p
+{
+ color: red;
+ background-color: black;
+  text-align: center;
+ text-decoration: underline
+  
+  }
