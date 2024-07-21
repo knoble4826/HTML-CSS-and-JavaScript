@@ -1,0 +1,22 @@
+body
+{
+  color: red;
+  text-align: Center;
+
+}
+h1
+{
+  color: Pink;
+  background-color: black;
+  font-style: Italic;
+  font-family: Impact;
+  
+}
+
+p
+{
+ color: black;
+  text-align: center;
+ text-decoration: underline;
+  font-family: Courier;
+  }
