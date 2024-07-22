@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    Times New Roman
+  <h1> Header 1</h1>
+  <p> Paragraph</p>
+  
+   <h1> Header 2</h1>
+   <p> Another Paragraph</p>
+  
+   <table>  
+     <tr>
+       <th> Table Header</th>
+       <th> Table Header</th>
+       <th> Table Header</th>
+       <th> Table Header</th>
+     </tr>
+     
+     <tr>
+        <td> Table Data</td>
+        <td> Table Data</td>
+        <td> Table Data</td>
+        <td> Table Data</td>
+      </tr>
+      <tr>
+        <td> Table Data</td>
+        <td> Table Data</td>
+        <td> Table Data</td>
+        <td> Table Data</td>
+      </tr>
+   </table> 
+  <p> Paragraph 3</p>
+  
+    <ul> Un-ordered list 
+      <li> List Item - 1</li>
+      <li> List Item - 2</li>
+      <li> List Item - 3</li>
+      </ul>      
+      <ol ordered list  
+      <li> List Item1</li>
+      <li> List Item2</li>
+      <li> List Item3</li>
+      </ol>   
+    Text    
+  </body>
+</html>

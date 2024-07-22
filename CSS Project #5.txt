@@ -1,0 +1,40 @@
+body
+{
+  color: blue;
+  text-align: center;
+  background-color: gray;
+  font-style: Italic;
+  font-family: Impact; 
+}
+h1
+{
+  color: Pink;
+  background-color: black;
+  font-style: Italic;
+  font-family: Impact;
+  
+}
+
+p
+{
+  color: black;
+  text-align: center;
+  text-decoration: underline;
+  font-family: Courier;
+  }
+}
+ul
+{
+  color: Pink;
+  list-style-type: square;
+  font-size: 100;
+}
+ol
+{
+
+}
+
+}
+table
+{
+}
