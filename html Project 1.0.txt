@@ -1,0 +1,9 @@
+<!DOCTYPE>
+ <html>
+  <title> My Website</title>
+   <body style ="background-color: yellow">
+<p style ="color: purple"> Paragraph</p>
+<h1 style = "background-color: orange"> Header 1
+
+   </body>
+ </html>
