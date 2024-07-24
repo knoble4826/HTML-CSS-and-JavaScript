@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+ <html>
+  <title> My Website</title>
+   <body style = "background-color: blue">
+<h3 style = "font-family: impact; color: red; background-color: black">Impact font forever</h3>
+<p style = "font-family: courier; color: orange; background-color: gray"> Paragraph text forever</p>
+ </html>
+  </title>
+
