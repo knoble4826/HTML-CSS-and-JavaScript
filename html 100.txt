@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+ <html>
+   <body>
+<h1 style = "font-family: impact; color: blue; background-color: black">GOOGLE RULES</h1>
+<p style = "font-family: cursive; color: pink; background-color: gray">AND IS COOL</p>
+<a href = "http://www.google.com"><u>This link goes to Google.com</u></a>
+<img src ="http://www.google.ca/logos/2012/canadarm12-hp.jpg" height = "200">
+
+
+
+ </html>
+   </body>
+
