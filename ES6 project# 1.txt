@@ -1,0 +1,8 @@
+// Types
+
+// Number
+
+console.log(10 * 5);
+console.log(Math.PI);
+console.log(+"10"));
+console.log(isNaN(1));
