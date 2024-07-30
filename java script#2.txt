@@ -1,0 +1,21 @@
+// Types
+
+// Number
+
+// console.log(10 * 5);
+// console.log(Math.PI);
+// console.log(+"10")
+// console.log(isNaN(1));
+
+
+// Strings
+// Sequences of Unicode characters
+
+console.log("Hello");
+console.log("Kevin Noble".length);
+console.log("Kevin".charAt(0))
+console.log("Kevin".charAt(1))
+console.log("Kevin".charAt(2))
+console.log("Kevin".charAt(3))
+console.log("Kevin".charAt(4))
+console.log("Hello" + " " + "world" + "!");
