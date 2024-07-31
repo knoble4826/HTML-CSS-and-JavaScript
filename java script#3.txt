@@ -1,0 +1,40 @@
+// Types
+
+// Number
+
+// console.log(10 * 5);
+// console.log(Math.PI);
+// console.log(+"10")
+// console.log(isNaN(1));
+
+
+// Strings
+// Sequences of Unicode characters
+
+// console.log("Hello");
+// console.log("Kevin Noble".length);
+// console.log("Kevin".charAt(0))
+// console.log("Kevin".charAt(1))
+// console.log("Kevin".charAt(2))
+// console.log("Kevin".charAt(3))
+// console.log("Kevin".charAt(4))
+// console.log("Hello" + " " + "world" + "!");
+// console.log("i want to be uppercase!!!".toUpperCase());
+
+
+//Booleans
+var shouldBeTrue = true;
+console.log(shouldBeTrue);
+
+
+// Objects
+// Collections of name-value pairs
+
+var myObject = new Object();
+myObject['1'] = "Kevin";
+myObject['2'] = "Katelyn";
+myObject['3'] = "Noble";
+myObject['4'] = "Janet";
+console.log(myObject);
+
+
