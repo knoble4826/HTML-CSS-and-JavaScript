@@ -1,0 +1,68 @@
+// Types
+
+// Number
+
+// console.log(10 * 5);
+// console.log(Math.PI);
+// console.log(+"10")
+// console.log(isNaN(1));
+
+
+// Strings
+// Sequences of Unicode characters
+
+// console.log("Hello");
+// console.log("Kevin Noble".length);
+// console.log("Kevin".charAt(0))
+// console.log("Kevin".charAt(1))
+// console.log("Kevin".charAt(2))
+// console.log("Kevin".charAt(3))
+// console.log("Kevin".charAt(4))
+// console.log("Hello" + " " + "world" + "!");
+// console.log("i want to be uppercase!!!".toUpperCase());
+
+
+//Booleans
+var shouldBeTrue = true;
+console.log(shouldBeTrue);
+
+
+// Objects
+// Collections of name-value pairs
+
+var myOtherObject = {
+  1: "Kevin",
+  2: "Katelyn",
+  3: "Noble",
+  4: "Janet",
+};
+
+myOtherObject['unique value'] = "Bob";
+
+
+
+var anotherObject = {
+  firstName: "Kevin",
+  lastName: "Noble",
+  age: 50,
+  numbers: {
+    mobile: "555-1234",
+    home: "555-5555",
+  },
+  address: "123 Fake st.",
+};
+
+var donut = {
+  type: "coconut",
+  glazed: true,
+  sweetness: 8,
+  hasChocolate: false,
+}
+
+console.log(donut)
+
+
+
+
+
+
