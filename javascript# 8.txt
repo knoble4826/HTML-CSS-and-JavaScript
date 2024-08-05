@@ -1,0 +1,9 @@
+var myName = "Bob";
+var myFavNum = 24;
+var myArray = [1, 2, 3, 4, 5, "Bob", "Jane"];
+var myObject = {name: "Chris", age: 30};
+
+console.log(myName)
+console.log(myFavNum)
+console.log(myArray)
+console.log(myObject)
