@@ -1,0 +1,27 @@
+var count = 10;
+
+function increase() {
+  count *= 5;
+  console.log(count)
+}
+
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
