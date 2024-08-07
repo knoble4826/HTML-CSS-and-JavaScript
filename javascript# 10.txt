@@ -1,0 +1,12 @@
+var myName = 'Chris';
+
+function sayNewName() {
+  var _myName = 'Bob'
+  console.log(_myName)
+}
+
+sayNewName()
+
+var count = 
+
+var count = 10;
