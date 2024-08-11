@@ -1,0 +1,28 @@
+var count = 1000;
+
+function increase() {
+  count -= 500;
+  console.log(count)
+}
+
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+
