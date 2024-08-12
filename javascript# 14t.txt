@@ -1,0 +1,14 @@
+// If statement
+// Tells the code: if this thing is true, run more code
+
+// if (expression) {
+// statement(s) to be excuted if expression
+// evaluates to truthy or falsey
+// }
+
+const bankAccountBalance = 1;
+const costOfItem = 123;
+const hasCreditCard = true;
+const hasReachedCreditLimit = false;
+
+if (())
