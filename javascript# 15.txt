@@ -1,0 +1,56 @@
+var myName = 'Chris';
+
+function sayNewName() {
+  var _myName = 'Bob'
+  console.log(_myName)
+}
+
+sayNewName()
+
+var count = 
+
+var count = 10;
+var myName = 'Kevin';
+
+function sayNewName() {
+  var _myName = 'Katelyn'
+  console.log(_myName)
+}
+
+sayNewName()
+
+var count = 
+
+var count = 10;
+
+var count = 1000;
+
+function increase() {
+  count -= 500;
+  console.log(count)
+}
+
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+
+
+
+
