@@ -1,0 +1,44 @@
+// If statement
+// Tells the code: if this thing is true, run more code
+
+// if (expression) {
+// statement(s) to be excuted if expression
+// evaluates to truthy or falsey
+// }
+
+
+const numberTen = 10;
+
+
+const stringTen = "10";
+
+
+console.log(numberTen + stringTen);
+
+var count = 10;
+
+function increase() {
+  count *= 5;
+  console.log(count)
+}
+
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
+increase()
