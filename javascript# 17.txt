@@ -1,0 +1,23 @@
+// Types
+
+// Number
+
+console.log(10 * 5);
+console.log(Math.PI);
+console.log(+"10"));
+console.log(isNaN(1));
+
+// If statement
+// Tells the code: if this thing is true, run more code
+
+// if (expression) {
+// statement(s) to be excuted if expression
+// evaluates to truthy or falsey
+// }
+
+const bankAccountBalance = 119;
+const costOfItem = 120;
+
+if (bankAccountBalance > costOfItem) {
+  console.log("You can purchase this item!")
+}
