@@ -1,0 +1,54 @@
+<!Doctype html>
+ <html>
+  <title> My Awesome Website</title>
+   <body>
+<h1 style = "font-family: impact; color: white; background-color: black">Kevin's Website</h1>
+<p style = "font-family: cursive; color: blue; background-color: black">below is Kevin's table</p>
+<table border = 5
+<tr>
+<td> Kevin's table</td><td> Kevin's table</td>
+</tr>
+</table>
+
+<table border = 5
+<tr>
+<td> Kevin's table</td><td> Kevin's table</td>
+</tr>
+</table>
+
+
+
+<table border = 5
+<tr>
+<td> Kevin's table</td><td> Kevin's table</td>
+</tr>
+</table>
+<p> below is Kevin's link</p>
+<a href = "http://www.google.com"> Kevin's Link </a>
+<p> below is Kevin's list</p>
+<ul>
+<li> Kevin's list</li>
+<li> Kevin's list</li>
+<li> Kevin's list</li>
+</ul>
+<ol>
+<li> Kevin's list</li>
+<li> Kevin's list</li>
+<li> Kevin's list</li>
+
+<p> below is Kevin's defintion list</p>
+<dl>
+<dt> Item
+<dd> Defintion</dd>
+</dt>
+
+
+
+
+
+
+
+
+
+
+
