@@ -1,0 +1,36 @@
+<!Doctype html>
+ <html>
+  <title> My Awesome Website</title>
+   <body>
+<h1 style = "font-family: impact; color: white; background-color: black">Kevin's Website</h1>
+<p style = "font-family: cursive; color: blue; background-color: black">below is Kevin's table</p>
+<!DOCTYPE html>
+ <html>
+   <body>
+<h1 style = "font-family: impact; color: red; background-color: black">Header 1</h1>
+<h2 style = "font-family: courier; color: blue; background-color: black">Header 2 </h2>
+<h3 style = "font-family: cursive; color: yellow; background-color: gray">Header 3 </h3>
+<h4 style = "font-family: verdana; color: orange; background-color: purple">Header 4 </h4>
+
+<p style = "font-family: cursive; color: blue; background-color: black">below is Kevin's table</p>
+<table border = 5
+<tr>
+<td> Kevin's table</td><td> Kevin's table</td>
+</tr>
+</table>
+
+<table border = 5
+<tr>
+<td> Kevin's table</td><td> Kevin's table</td>
+</tr>
+</table>
+
+
+
+<table border = 5
+<tr>
+<td> Kevin's table</td><td> Kevin's table</td>
+</tr>
+</table>
+<p> below is Kevin's link</p>
+<a href = "http://www.google.com"> Kevin's Link </a>
